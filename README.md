@@ -14,7 +14,11 @@ interfaz gráfica en **20 idiomas**.
 
 ## Descargar
 
-**[Última versión → Releases](https://github.com/iondeveloper01/AMPERA-ARMOR/releases/latest)**
+La release **v1.1.0** está en preparación y se publicará **firmada digitalmente**.
+Mientras tanto, el código fuente está en [`src/`](src/) y el instalador se puede
+compilar con las instrucciones de [`src/README.md`](src/README.md).
+
+**[Releases del proyecto](https://github.com/iondeveloper01/AMPERA-ARMOR/releases)**
 
 | Archivo | Versión | Tamaño |
 |---|---|---|
