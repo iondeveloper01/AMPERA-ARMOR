@@ -7,6 +7,8 @@ interfaz gráfica en **20 idiomas**.
 
 > Proyecto personal de [iondeveloper01](https://github.com/iondeveloper01).
 > Sin telemetría, sin cuentas y sin conexiones a Internet.
+>
+> © 2026 ion-developer · Código propio bajo licencia **MIT** (ver [LICENSE](LICENSE)).
 
 ---
 
@@ -80,6 +82,11 @@ solo si el hash coincide con el de arriba.
    (con lista blanca y protección de servicios y ventanas visibles).
 7. 20 idiomas completos, árabe y urdu en RTL.
 
+## Código fuente
+
+El código de AMPERA está en [`src/`](src/), bajo licencia MIT. Instrucciones para
+ejecutarlo y compilarlo: [`src/README.md`](src/README.md).
+
 ## Privacidad y seguridad
 
 - Todo se guarda en local, en `%LOCALAPPDATA%\AMPERA`. El instalador no incluye
@@ -117,5 +124,10 @@ Detalles y enlaces al código fuente en
 
 ## Licencia
 
-El código propio de AMPERA está pendiente de definir por el autor. Los
-componentes de terceros conservan sus licencias (ver arriba).
+El código propio de AMPERA es **MIT**, © 2026 **ion-developer**. Consulta el texto
+completo en [LICENSE](LICENSE). Los componentes de terceros conservan sus licencias
+(ver arriba). `LhmServer.cs` enlaza `LibreHardwareMonitorLib.dll` (GPL-3.0), por lo
+que ese puente se distribuye bajo GPL-3.0 con su fuente en este repositorio.
+
+Este software se proporciona «tal cual», sin garantía. Ajustar potencia y
+temperaturas conlleva riesgo; úsalo bajo tu responsabilidad.

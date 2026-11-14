@@ -1,0 +1,4 @@
+nvidia-ml-py==13.615.71
+psutil==7.2.2
+customtkinter==6.0.0
+PySide6==6.12.0

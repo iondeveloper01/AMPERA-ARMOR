@@ -1,0 +1,16 @@
+# Normaliza finales de línea: texto en LF dentro del repo, nativo al descargar.
+* text=auto
+
+# Archivos de texto concretos siempre en LF (scripts que se ejecutan en Windows)
+*.py    text eol=lf
+*.ps1   text eol=lf
+*.bat   text eol=crlf
+*.vbs   text eol=crlf
+*.json  text eol=lf
+*.md    text eol=lf
+*.spec  text eol=lf
+*.cs    text eol=lf
+
+# Binarios (no tocar)
+*.ico   binary
+*.png   binary

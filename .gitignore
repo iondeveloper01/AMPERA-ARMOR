@@ -1,0 +1,36 @@
+# ===== Binarios / builds (no se publican) =====
+dist/
+build/
+build_tmp/
+dist_build_tmp/
+__pycache__/
+*.pyc
+*.zip
+*.exe
+*.dll
+*.pdb
+
+# Excepcion: el instalador SI se publica (unica entrega binaria del repo)
+!instalador/AMPERA-Setup-*.exe
+
+# ===== Herramientas de terceros (GPL/freeware): el README explica como obtenerlas =====
+tools/
+
+# ===== Datos personales / de ejecucion del usuario (NUNCA publicar) =====
+logs/
+config.json
+perfiles_juegos.json
+perfiles_certificados.json
+overlay_estilos.json
+
+# ===== Documentacion interna / scripts personales de una sola vez =====
+REPORTE_2026-10-13.md
+reporte_fase16_sistema.md
+arreglos_manana.bat
+
+# ===== Varios =====
+*.log
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/

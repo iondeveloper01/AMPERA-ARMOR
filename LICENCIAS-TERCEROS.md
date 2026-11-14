@@ -23,8 +23,8 @@ GPL-3.0. Su código fuente completo es este mismo repositorio
 
 ## Licencia del resto del código de AMPERA
 
-Por definir por el autor (ion). Mientras no se indique lo contrario, el código
-propio se publica en este repositorio con fines de revisión y uso personal.
+Copyright (c) 2026 **ion-developer**. El código propio se publica bajo licencia
+**MIT**; el texto completo está en [`LICENSE`](LICENSE).
 
 ## Marcas
 
